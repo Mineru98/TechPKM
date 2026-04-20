@@ -1,3 +1,8 @@
 node_modules
 .claude/skills/pkm/data/index.json
 .search-index/
+.omx
+.omc
+.opencode
+*.pyc
+logs
